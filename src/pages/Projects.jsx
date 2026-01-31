@@ -34,7 +34,7 @@ const Projects = () => {
               </div>
 
               <div className="project-links">
-                <a href="#" target="_blank" rel="noreferrer">GitHub</a>
+                <a href="https://github.com/rameshbodke/react-portfolio.git" target="_blank" rel="noreferrer">GitHub</a>
                 
               </div>
             </div>

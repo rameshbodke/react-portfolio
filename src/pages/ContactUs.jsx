@@ -23,7 +23,7 @@ export const ContactUs = () => {
 
           <p>
             <FaEnvelope className="icon" />
-            <span>rameshbodke@email.com</span>
+            <span>rameshbodke0408@email.com</span>
           </p>
 
           <p>

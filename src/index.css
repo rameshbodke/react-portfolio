@@ -239,7 +239,7 @@
 .home-image img {
   width: 280px;          /* 🔥 perfect size */
   height: 280px;
-  border-radius: 50%;    /* circle profile */
+  border-radius: 20%;    /* circle profile */
   object-fit: cover;
   border: 5px solid #00e5ff;
   box-shadow: 0 20px 40px rgba(0, 229, 255, 0.4);
